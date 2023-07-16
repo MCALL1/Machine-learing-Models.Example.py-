@@ -1,3 +1,4 @@
+# This script was writen with Spider 3.10 IDE
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun 30 10:42:55 2023
