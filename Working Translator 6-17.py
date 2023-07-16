@@ -1,3 +1,5 @@
+
+# This script was writen with Spider 3.10 IDE
 # -*- coding: utf-8 -*-
 import openai
 from googletrans import Translator
