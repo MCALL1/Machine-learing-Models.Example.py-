@@ -3,7 +3,7 @@ import openai
 from googletrans import Translator
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'add your API key'
 
 # Initialize the translator
 translator = Translator()
