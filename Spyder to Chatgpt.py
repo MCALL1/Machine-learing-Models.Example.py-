@@ -1,3 +1,4 @@
+# This script was writen with Spider 3.10 IDE
 import openai
 
 # Set up OpenAI API credentials
